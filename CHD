@@ -1,67 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/5tCgZmF7/images-22.jpg" group-title="Sports", PTV Sports
-https://off1.gogohaalmal.com:1686/hls/ptvpk.m3u8?md5=0_g5prEXDe6PYJEAHqdc1Q&expires=1750481770
+https://aynapubluc.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8?|user-agent=@xfireflix
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/660cJqyX/20250621-094123.jpg" group-title="Sports", Star Sports 1
-https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=lB3IeTVRTXpeSSubQVKViw&expires=1750481770
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/JhVZBCGx/20250621-094205.jpg" group-title="Sports", Star Sports Hindi
-https://off1.gogohaalmal.com:1686/hls/starhindi.m3u8?md5=1UyzIN3DawoZdQf0QXIuFA&expires=1750481770
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mk1mzdW6/images-13.jpg" group-title="Sports", G TV
+https://aynapubluc.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8?|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/59RHCWrz/20250618-195429.jpg" group-title="Sports", A Sports 
-https://off1.gogohaalmal.com:1686/hls/asportshd.m3u8?md5=JG-EFzr1NQsJw48gpz40yw&expires=1750481770
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/SKdRQB8J/20250618-195348.jpg" group-title="Sports", Sky Sports Cricket 
-https://off1.gogohaalmal.com:1686/hls/skyscric.m3u8?md5=Z6H4h33QTNriGn2HJXsTwg&expires=1750481771
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/52M2B4SX/20250621-094504.jpg" group-title="Sports", Sky Sports Football 
-https://off1.gogohaalmal.com:1686/hls/skysfott.m3u8?md5=71V9m7_lF41HmxlGs7-NEA&expires=1750481772
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/8CZkghQv/20250621-094521.jpg" group-title="Sports", Sky Sports F1
-https://off1.gogohaalmal.com:1686/hls/skysfor1.m3u8?md5=ETXgnVpBjHGmRQdFFRsa5Q&expires=1750481773
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/rmzVVKMP/20250621-094537.jpg" group-title="Sports", Sky Sports Premier League 
-https://off1.gogohaalmal.com:1686/hls/skysprem.m3u8?md5=MhKtzr9xP17ZGxUxAco59Q&expires=1750481772
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/FRq97NKs/20250621-094550.jpg" group-title="Sports", Sky Sports Golf
-https://off1.gogohaalmal.com:1686/hls/skysgol.m3u8?md5=1xhE_DDsvgW-g7C3tkXv4Q&expires=1750481772
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/rmSkFW7g/20250621-094626.jpg" group-title="Sports", Sky Sports Action 
-https://off1.gogohaalmal.com:1686/hls/skysact.m3u8?md5=h30Q5sO2rObLvgp_PgGalg&expires=1750481772
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/kMc01nCV/20250621-094640.jpg" group-title="Sports", Sky Sports Tennis
-https://off1.gogohaalmal.com:1686/hls/skystennis.m3u8?md5=qdick1tYsbBDmoi56amGAQ&expires=1750481774
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/MK3hwdvq/20250621-094604.jpg" group-title="Sports", Sky Sports Mix
-https://off1.gogohaalmal.com:1686/hls/skysmixx.m3u8?md5=Kh2OYX3_uX7k1ueOm4puuA&expires=1750481774
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/0QCBBCTg/20250621-094027.jpg" group-title="Sports", TNT Sports 2
-https://off1.gogohaalmal.com:1686/hls/bbtsp2.m3u8?md5=lScRscMSTf0VXgCuoQlF9Q&expires=1750481771
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/j2dF07TD/20250621-094043.jpg" group-title="Sports", TNT Sports 3
-https://off1.gogohaalmal.com:1686/hls/bbtsp3.m3u8?md5=nc2J7niJ469YeCLVq-ttbg&expires=1750481771
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/15XjvwMT/20250621-094057.jpg" group-title="Sports", TNT Sports 4
-https://off1.gogohaalmal.com:1686/hls/bbtespn.m3u8?md5=f6RESSuxH5fAFtNX6FlNyw&expires=1750481771
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/vZ6SsyJt/20250621-094448.jpg" group-title="Sports", La liga
-https://off1.gogohaalmal.com:1686/hls/laligauk.m3u8?md5=ziw6pict8VixM6r6K6URHw&expires=1750481773
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/hjKCTdf2/20250621-094748.jpg" group-title="Sports", Willow HD
-https://off1.gogohaalmal.com:1686/hls/willowusa.m3u8?md5=h8cj8GMcM7zvfzwYlqWA7Q&expires=1750481770
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/FRGTZHSN/20250621-094906.jpg" group-title="Sports", Willow HD 2
-https://off1.gogohaalmal.com:1686/hls/willowextra.m3u8?md5=O--tuPdo6nArMyAAh9Kscw&expires=1750481770
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/66jH4Twh/20250621-094358.jpg" group-title="Sports", Premier Sports 1
-https://off1.gogohaalmal.com:1686/hls/premieruk.m3u8?md5=5r68vrGp3UPVaDUO2gZsTA&expires=1750481773
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/bNZmx8wf/20250621-094419.jpg" group-title="Sports", Premier Sports 2
-https://off1.gogohaalmal.com:1686/hls/hdchnl2.m3u8?md5=gDavFVM-f5-BCq58HG4Vsg&expires=1750481773
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/TP6QvDqT/20250621-094303.jpg" group-title="Sports", Sony Sports 3
-https://off1.gogohaalmal.com:1686/hls/ten1hd.m3u8?md5=xM5QnlYklrdYADJjVndj2A&expires=1750481774
+https://aynapubluc.vercel.app/api/stream/a3d48c46-7902-45e2-abf9-0fab60c4d117.m3u8?|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/WbDDsnWY/20250619-111813.jpg" group-title="News", Deepto TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
