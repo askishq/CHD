@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/5tCgZmF7/images-22.jpg" group-title="Sports", PTV Sports
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/5tCgZmF7/images-22.jpg" group-title="Sports", P TV Sports
 https://aynapubluc.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8?|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mk1mzdW6/images-13.jpg" group-title="Sports", G TV
